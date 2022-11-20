@@ -45,7 +45,7 @@ main{
 }
 
 .grid-item{
-    height: 70vh;
+    height: 50vh;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
